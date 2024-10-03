@@ -1,0 +1,38 @@
+# Ignorar arquivos de compilação
+*.out
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.o
+*.a
+*.lo
+*.lai
+*.al
+*.l
+
+# Ignorar diretórios e arquivos de build temporários
+build/
+bin/
+obj/
+*.tmp
+*.log
+
+# Ignorar arquivos de configuração específicos de IDEs
+# (exemplo para alguns IDEs comuns)
+.vscode/
+*.code-workspace
+*.project
+*.cproject
+*.idea/
+*.suo
+*.user
+*.userosscache
+*.sln
+*.ncb
+*.suo
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
